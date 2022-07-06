@@ -10,7 +10,7 @@
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
-      "text": "Blog",
+      "text": "Archive",
       "url": "/blog",
       "external": false
     },
@@ -22,20 +22,16 @@
   ],
   "socialLinks": [
     {
-      "text": "Instagram",
-      "url": "https://instagram.com/",
+      "text": "Twitter",
+      "url": "https://twitter.com/",
       "external": true
     },
     {
       "text": "GitHub",
       "url": "https://github.com/yinkakun/eleventy-duo",
       "external": true
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/",
-      "external": true
     }
+    
   ],
   "footerLinks": [
     {

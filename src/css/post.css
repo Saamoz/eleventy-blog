@@ -5,7 +5,7 @@
 }
 
 .post > * + * {
-  margin-top: 4rem;
+  margin-top: 3rem;
 }
 
 .post__details {

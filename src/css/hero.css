@@ -16,8 +16,7 @@
   display: flex;
   flex-wrap: wrap;
   list-style-type: none;
-  margin-top: 2rem;
-  text-transform: uppercase;
+  text-transform: lowercase;
 }
 
 .hero__social-links > li {

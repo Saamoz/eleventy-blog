@@ -1,8 +1,7 @@
 ---
 title: A post with rich media
-date: '2020-12-20'
 tags: [demo-content, media]
-decription: The last person we talked to said this would be ready action item, and what do you feel you would bring to the table if you were hired for this position bells and whistles.
+description: The last person we talked to said this would be ready action item, and what do you feel you would bring to the table if you were hired for this position bells and whistles.
 permalink: posts/{{ title | slug }}/index.html
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: "Home"
 ---
 
-# Hello World
+# Welcome to Saad's Scribbles
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+Hello reader! I'm glad you've found your way to my blog. It's a little corner of the internet where I store my thoughts

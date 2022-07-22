@@ -1,11 +1,11 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
+  "name": "Saad's Scribbles",
+  "description": "A little corner of the internet where I store my thoughts",
   "url": "https://eleventyduo.netlify.app",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Saad",
+    "email": "saamoz2012@gmail.com",
+    "twitterHandle": "@saamoz812"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
@@ -13,22 +13,17 @@
       "text": "Archive",
       "url": "/blog",
       "external": false
-    },
-    {
-      "text": "About",
-      "url": "/about",
-      "external": false
     }
   ],
   "socialLinks": [
     {
       "text": "Twitter",
-      "url": "https://twitter.com/",
+      "url": "https://twitter.com/saamoz812",
       "external": true
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://github.com/Saamoz",
       "external": true
     }
     

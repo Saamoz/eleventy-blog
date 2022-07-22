@@ -6,7 +6,7 @@ tags: [demo-content, code, new]
 ---
 
 Health goth raw denim vaporware waistcoat, vegan neutra glossier. Cronut chartreuse tbh meh schlitz. Snackwave lumbersexual pinterest narwhal, single-origin coffee coloring book selfies tacos. Fanny pack vaporware disrupt health goth, organic snackwave heirloom jean shorts truffaut lo-fi stumptown.
-Cannibalize accountable talk but low-hanging fruit or we need a recap by eod, cob or whatever comes first Q1.
+Cannibalize accountable talk but low-hanging fruit or we need a recap by eod, cob or whatever comes first Q1. 
 
 ## Heading
 

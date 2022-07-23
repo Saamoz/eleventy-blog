@@ -141,7 +141,8 @@ td:only-child {
 
 h2 + p,
 h3 + p,
-h4 + p {
+h4 + p,
+figure + p {
   margin-top: 1rem;
 }
 

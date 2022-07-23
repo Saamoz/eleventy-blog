@@ -54,3 +54,9 @@
   padding-left: 0.5rem;
   padding-right: 0.5rem;
 }
+
+figcaption {
+  font-size: smaller;
+  text-align: center;
+  font-style: italic;
+}

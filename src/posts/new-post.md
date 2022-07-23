@@ -1,17 +1,16 @@
 ---
-title: New Post
-description: Test description. Hopefully a really cool post
+title: First Post! Welcome to the Blog
+description: Let's get this party started
 permalink: posts/{{ title | slug }}/index.html
-tags: [demo-content, code, new]
+tags: logistics
 ---
 
-Health goth raw denim vaporware waistcoat, vegan neutra glossier. Cronut chartreuse tbh meh schlitz. Snackwave lumbersexual pinterest narwhal, single-origin coffee coloring book selfies tacos. Fanny pack vaporware disrupt health goth, organic snackwave heirloom jean shorts truffaut lo-fi stumptown.
-Cannibalize accountable talk but low-hanging fruit or we need a recap by eod, cob or whatever comes first Q1. 
+![The doors are open](https://media.istockphoto.com/photos/open-old-doors-picture-id183774917?k=20&m=183774917&s=612x612&w=0&h=z9_tCftWPHrrMXs0NOtLTyx32gD_azQdBNjL5UTjVEg= "The doors are open")
 
-## Heading
+So, here we are. After plenty of deliberating, procrastinating, and brainstorming, I've finally ended up with this blog. If you're reading this, there's a good chance I asked you for help with the design or the name or just plain old motivation, so thank you for that. This is still kind of a first draft of both the website and the whole blogging idea in general, so if you have any feedback or ideas please let me know.
 
-Draw a line in the sand time vampire translating our vision of having a market leading platfrom. Cloud strategy to be inspired is to become creative, innovative and energized we want this philosophy to trickle down to all our stakeholders after I ran into Helen at a restaurant, I realized she was just office pretty, for future-proof, yet blue money. Put in in a deck for our standup today let’s unpack that later and not enough bandwidth, for get six alpha pups in here for a focus group. Those options are already baked in with this model nail jelly to the hothouse wall we are running out of runway.
+Despite having one short-lived experiment in high school, this feels like my first time doing anything like this. I have lots of thoughts in my head and I'm a decent writer, but it remains to be seen whether I'll be able to combine these two things. There's lots of different directions I could take this; essays, fiction, art, life updates, poetry, journaling. It feels a little overwhelming since I have at least a little bit of interest in all of these things, but I hope I'll be able to satisfy my own need to produce a variety of content.
 
-## Heading
+Picking a name for this was really tricky, but I think I'm happy with how it ended up. Saad's Scribbles gives me an artsy vibe which is not something I was planning to do much of, but maybe this will motivate me to create and post more art. I also like the unpretentious feel; I would probably push myself to produce fewer higher quality essays on something like Saad's Codex, but for better or for worse it feels like I can dump whatever I want onto here. I'm not sure what balance I should have between only posting high quality polished content and using it more as a stream of consciousness journal but I'm confident I'll work it out.
 
-Upsell we need to socialize the comms with the wider stakeholder community bench mark accountable talk nor price point. Drill down obviously so productize pig in a python, so enough to wash your face knowledge is power what do you feel you would bring to the table if you were hired for this position. New economy. Knowledge process outsourcing idea shower, and baseline drink the Kool-aid vertical integration pro-sumer software. Touch base into the weeds, and knowledge process outsourcing clear blue water re-inventing the wheel waste of resources, nor Bob called an all-hands this afternoon. I don’t want to drain the whole swamp, i just want to shoot some alligators.
+Anyway, this is meant as more of an introduction so I'll end it here. I intend to muse more about the types of content I want on this blog so expect a discussion of that coming in the next few weeks. Overall though I'm feeling good about this whole experiment so far, let's see how it goes.

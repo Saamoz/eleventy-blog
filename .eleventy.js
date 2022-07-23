@@ -9,6 +9,18 @@ const path = require('path');
 const isDev = process.env.ELEVENTY_ENV === 'development';
 const isProd = process.env.ELEVENTY_ENV === 'production'
 
+const markdownIt = require("markdown-it");
+let options = {
+  // whatever options you have set for the library here
+};
+
+const mdfigcaption = require('markdown-it-image-figures');
+const figoptions = {
+    figcaption: true
+};
+
+const mdLib = markdownIt(options).use(mdfigcaption, figoptions);
+
 const manifestPath = path.resolve(
   __dirname,
   'public',
@@ -27,6 +39,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(readingTime);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(syntaxHighlight);
+
+  eleventyConfig.setLibrary("md", mdLib);
 
   // setup mermaid markdown highlighter
   const highlighter = eleventyConfig.markdownHighlighter;

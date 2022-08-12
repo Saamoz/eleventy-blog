@@ -2,6 +2,7 @@
 title: First Post! Welcome to the Blog
 description: Let's get this party started
 permalink: posts/{{ title | slug }}/index.html
+date: '2022-07-25'
 tags: logistics
 ---
 

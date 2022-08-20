@@ -20,5 +20,5 @@ There are plenty of ~~boring~~ historical Toronto facts I could start with: the 
 
 ![Toronto Population Graph](https://idragovic.files.wordpress.com/2017/04/toronto-pop-1800-20163.jpg?w=1000)
 
-Toronto for much of it's history was not a very large city. When comparable cities in North America like New York or Chicago were already grown up and 
+Toronto for much of it's history was not a very large city. When comparable cities in North America like New York or Chicago were already grown up booming metropolises by the 1950s, Toronto was just getting started.
 

@@ -1,7 +1,7 @@
 ---
 title: Hopes and Dreams for this Experiment
 description: So what's up with this whole blog thing anyway?
-permalink: posts/{{ title | slug }}/index.html
+permalink: posts/{{ title | slugify }}/index.html
 date: '2022-08-11'
 tags: 
     - logistics

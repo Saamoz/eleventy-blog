@@ -91,11 +91,6 @@ ul {
   list-style-position: inside;
 }
 
-b,
-strong {
-  font-weight: 500;
-}
-
 table {
   border-collapse: collapse;
   caption-side: bottom;

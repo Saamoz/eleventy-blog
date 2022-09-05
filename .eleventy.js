@@ -139,10 +139,12 @@ module.exports = function (eleventyConfig) {
         collapseWhitespace: true,
         useShortDoctype: true,
       });
-    }
+    }  
 
     return content;
   });
+
+  eleventyConfig.addPassthroughCopy('assets');
 
   return {
     dir: {

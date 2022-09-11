@@ -1,6 +1,6 @@
 ---
 title: How I Mapped Bikelanes Around the World
-description: The Tech Behind the Project
+description: The tech behind my first big project
 permalink: posts/{{ title | slugify }}/index.html
 date: '2022-09-11'
 tags: 

@@ -1,0 +1,74 @@
+---
+title: Ceramics, Crochet, and Creativity
+description: Fun waypoints on the road of creativity
+permalink: posts/{{ title | slugify }}/index.html
+date: '2022-12-06'
+tags: 
+    - projects
+    - musings
+---
+
+I'm very excited to write this because this is the type of post I'd always envisioned writing. I feel most fulfilled in life when I'm able to frequently try new things, immerse myself in creative endeavors, and ideally do that while meeting new people and exploring new places. By this point in life I admit I imagined myself doing much more of these activities much more frequently, but I sadly haven't yet written much about anything new.
+
+Well, dear reader, I'm pleased to be able to say I have not one but ~~three~~ two (I was planning to include a third but sadly just ran out of time) interesting activities to discuss today. I debated splitting these up into their own posts, but I think it'll be fun to be taken on a whirlwind tour of what I've been up to lately. This also gives me a chance to tie these things together and ramble on a little more about the nature of creativity. If there's one thing I like it's ~~incessantly droning on~~ expounding the virtues and the power of creativity.
+
+Firstly a little bit of background about what I'm trying to do with all these creative attempts. In the course of moving to a new apartment, I realized that comes to my style or aesthetic for interior design I lean towards minimalism. To me, this doesn't mean sleek, monochromatic, and geometric pieces but rather it means having less stuff with more meaning. I think Marie Kondo's approach is similar to this; keep only what sparks joy. I'd love to live in a house where I made my own soap, dishes, and furniture; anything to make the contents more meaningful to me.
+
+Now this is obviously quite a stretch goal. I don't plan to achieve this in the next decade or even maybe within this lifetime. I guess in my mind it's about the journey as much as the destination - developing the skills needed to create what I envision will be as integral to the experience as actually getting the final product. Even if the things I create are worse than the offerings at the nearest big box store (and they likely will be!) I hope that the extra meaning gone into the things I make will more than compensate for the amateur quality.
+
+### Pottery
+
+Sometimes I have the strange experience of visiting someone's house and realizing they have the exact same plates or spoons as I do. It makes me wonder, out of all the possible crockery in the world how did we end up with two of the exact same pieces? What a coincidence! It's certainly funny to notice this, but it just makes me wonder all the more what my own taste would lead me to create.
+
+To achieve this, I signed up for pottery classes at a local ceramics studio. I admit, I expected some kind of impersonal, standard beginner tutorial run by an tired educator. I was, however, blown away by what I found. A beautifully decorated basement studio with dozens of pieces adorning the walls, each made with soul and intention. The instructor was lively, wise, and extremely inspirational. I could go on, but I think my experience just serves to show how much can be gained from new experiences. To think I was feeling lazy and considered cancelling a few hours before!
+
+The actual creative process was invigorating. I never really worked with clay before; it's amazing how it feels so alive. It's weight makes if really satisfying to just hold. When you squeeze it, it almost feels like it squeezes back. I can understand why ancient civilizations placed so much reverence on pottery; why some considered their clay creations to be almost alive.
+
+There were various options for what to make, but I opted for the most ambitious one which was to try and make a vase using the spinning wheel. I figured there was a high risk of failure, but whatever happened it promised to be interesting. I ended up being right on both counts. Coaxing the clay into taking the shape you want is not as simple as it would seem, and my haste led me to create a vessel that was lumpy and misshapen. I went too fast and it collapsed in on itself, so instead of a beautiful symmetrical vase it was kind of an awkward, bulbous flower pot. 
+
+I still loved it though. Sure, the destination I'd reached wasn't quite what I intended but the journey was always more of my focus. I might not even be writing this if I'd made a perfect vase as I intended. As I went through the painting and glazing process, reflecting on my mishaps, I was very happy I'd gotten this experience. This mediocrity will serve as a benchmark for my (hopefully) future successful ceramics endeavors. I can't wait to bring my little creation home when it's dry and put it on display; showcasing it's beauty (or lack thereof) will inspire me to continue to practice and create.
+
+It's not often you get to spend time being personally instructed by a master of their craft, and my instructor was definitely a true master. Watching them work feels otherworldly, and with so many expertly handcrafted pieces whetting my creativity I couldn't help but be constantly amazed. Every story she shared, from her time in art school to being a teacher to traveling the world just exuded passion. It made me realize that some people really do have a calling in life. Something that completes them, that fits so well you couldn't imagine who they'd be without it, and few things are as beautiful as when someone finds theirs.
+
+It was just so wonderful to be in a creative environment around other creative people, doing something I wasn't very good at. That last part is important; trying and failing and learning and improving over the 2 hour course was _such_ as a satisfying feeling. Next time I visit I may try some easier molded pieces so I can quickly get some usable bowls and trays, but the wheel will always be taunting me. Calling to me. I'll be bothered until I master that wheel and make the vase I always dreamed of.
+
+![Studio Picture](https://i.imgur.com/lD0zIAn.png "A cozy corner of the studio, along with the wheel where I toiled")
+
+
+### Crochet
+
+Crochet is something I picked up on a whim. I'd knitted when I was younger, but I always wanted to branch out. Knitting is best for garments due to its stretchier patterns, but crochet is fun because it's faster and it can make more complex objects like hats and plush toys and even decorative flowers. I didn't have any big plans for what I wanted to make, just to learn and see what is possible.
+
+I want you, for a moment, to imagine something. If you have anything knitted or crocheted nearby, even better. Picture a handmade knitted or crocheted sweater, nice and thick and warm, and zoom in in your mind. Think about the tapestry of stitches making up every inch of that sweater. Each one, each individual stitch was lovingly made by a human. Someone gently steered a piece of yarn around tens of thousands of times, literally putting it together centimeter by centimeter. Each sweater represents over a dozen hours of doing the same repetitive task to coerce a dead ball of fiber into becoming something complex and vibrant. And yes, I know there are knitting machines, but to my surprise none exist for crochet! The pattern is too intricate to mass produce.
+
+As I struggled away, trying to get the yarn to obey my instructions, I marvelled at the fact that so much thought and effort went into each piece; effort that nobody except the maker can truly appreciate. I think this entire parable gets at another reason why I feel that creativity is so special. When you've made things yourself, gone through the laborious process, seeing those same things around you inspires reverence and gratitude. I don't think I'll be able to look the same way at needlework and hand-stitched garments. In my opinion it's a very beautiful way to view the world.
+
+Another amazing thing to experience was how quickly I progressed. Mastery of something is always fickle yet extremely satisfying to achieve. I am no crochet master of course, but I can already see the rapid progress I've made. Stitches that used to take me almost half a minute and were loose and wobbly now are consistent and refined. When I was learning I could only work while staring at the yarn with a deadly intensity, unwilling to blink in case it unraveled just to spite me. Now I can work while holding a conversation, trusting my muscle memory to guide my hand.
+
+I'm also quite happy that we could take home our projects to continue working on them. The process requires just enough brainpower to be relaxing and almost meditative. Since I completed a few lego projects I was yearning for something to keep my hands busy so my mind could be set free, and crochet fits perfectly. I might even go so far as to say that it's a quick shortcut to reach the [pool of insight](/posts/writing-is-hard/). I would do it for hours if I wasn't afraid of running out of yarn!
+
+One reason I'm very excited to expand my creative repertoire is that is increases my gift potential alot. I should probably write more about this topic, but for now I'll say that the type of gifts I like to give are ones that the recipient can't just buy for themselves. As I've gotten older, and more of my friends can afford what they want, this has become even more important. A handmade scarf or granny square is a wonderful gift, and much easier to transport than a heavy ceramic mug.
+
+![Crochet](https://i.imgur.com/sPayHS7.png "The beginnings of my scarf. It's since doubled in size!")
+
+### The Meaning of Meaning
+
+In this final section I'd like to ramble a little bit more on creativity. If you enjoyed what you've read up to now I think that gives me a little bit of license to be a little more abstract.
+
+I like things that have meaning. That have a story to them. History. Connections. Meaning is how you perceive and feel about something. It's why symbols exist; why the world cup is more than just an empty cup. It's why I like viewing my own life as if it's a story, with chapters and climaxes and plot twists. To me, a narrative gives random events more meaning; I can look back and arbitrarily choose that certain events were pivotal turning points, and because I believe they are, they are. The chaotic sequence of events that make me me suddenly take on structure and give me direction. I can decide where I've come from and where I am going.
+
+See that? That's me choosing to assign meaning to things. I love doing that! It's not the only way this thing works. Some stuff comes with meaning preinstalled, like a family heirloom or a gold medal. Other times you can add meaning for yourself. Drink the same drink out of the same cup at the same time every year, and you've got yourself something powerful going on. You might consider a wedding to be a powerful ritualistic ceremony in which we imbue special meaning into a sacred object (the wedding ring). We as humans like impressing meaning on things. We casually do it all the time; we love to name our plants, and to make up stories about funny looking clouds. Children are experts at this; just by picking up a doll they can conjure out of thin air a whole life for them, with a background, friends, family, hopes and dreams, and then throw it all away as they see fit. I'm a little envious of this ability sometimes.
+
+I think there's something powerful you unlock when you play with meaning in this way. Controlling meaning is central to a lot of ideologies and religious. Think of the ceremony, traditions, and symbols that people have fought wars over. I don't mean this negatively, meaning is very important to many people and sometimes should be fought for, but ultimately I think it's best for the chief arbiter of meaning in your life to be yourself. Lots of people struggle with feeling meaningless and I don't mean to preach an answer at them. Simply that it might be worth taking a closer look at what brings you meaning and why.
+
+### Creativity is a Vessel for Meaning
+
+Alright let's get back to creativity. Meaning is fundamentally why I enjoy being creative. When I create an object myself, go through the trials and toil required to bring your vision to fruition, it gains special meaning to me. Knowing its story and having an intimate relationship with it makes it much nicer to use than getting the same thing with one click on Amazon. Shedding blood, sweat, and tears for a project will ensure you always hold it close to your heart, but of course you don't need to go through so much pain to give something meaning. You just need to choose for it to be meaningful to you.
+
+When I look around me, seeing things I've made, that have significance to me, brings me so much happiness. I don't just see a Lego build, I remember the hours I spent putting it together while listening to music and chatting. I don't just see a collection of books, I recall the conversations and experiences I've had that made me choose to buy those books in the first place. Each painting on the wall is all the minutes I spent with friends, slowly bringing it to life. Even small things, like the knife in my kitchen, to me represents each delicious meal it's dutifully helped me make.
+
+I don't want to go so far as to suggest that all meaning is subjective and arbitrary. That might be a little too abstract for most, even if it works for me. Different people have different relationships with meaning and all of them are valid. For me, I just hope it helps to highlight why I love creativity. The process of making something with your own two hands automatically gives it meaning, and is one of the most fulfilling ways to do so in my opinion.
+
+Being around other creative people was also a huge blessing. It was clear that all of them put lots of thought and emotion and (dare I say) meaning into what they made. Each of their pieces had stories behind them, and even if I didn't know exactly what they were I could still feel the gravity of that emanating from them. I said [once](/posts/writing-is-hard/) that creativity begets creativity, and doing these activities was a prime example. Spending time in that environment only made me more excited and thoughtful for embarking on more creative journeys of my own.
+
+Whew. I hope that last part wasn't too much. Even if the specifics are a little messy and it feels a little bit "woo", I hope my general point is coming across. I like being creative, and learning new avenues in which to express creativity. Crochet and pottery are just the beginning for me. One day I may be living in a palace of my own making, surrounded by treasures and jewels. I'm happy I was able to make two small steps towards that dream, and plan to continue making many more.

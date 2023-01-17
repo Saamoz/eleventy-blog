@@ -2,7 +2,7 @@
 title: Ceramics, Crochet, and Creativity
 description: Fun waypoints on the road of creativity
 permalink: posts/{{ title | slugify }}/index.html
-date: '2022-12-06'
+date: '2022-12-23'
 tags: 
     - projects
     - musings

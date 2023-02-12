@@ -7,6 +7,17 @@
   "resolved" "https://registry.npmjs.org/@11ty/dependency-tree/-/dependency-tree-2.0.1.tgz"
   "version" "2.0.1"
 
+"@11ty/eleventy-cache-assets@^2.3.0":
+  "integrity" "sha512-W8tvO00GlWaKt3ccpEStaUBoj9BE3EgzuD8uYChCfYbN2Q4HkEItkiapvIJT0zJwAwoMfnSq6VHPLScYlX2XCg=="
+  "resolved" "https://registry.npmjs.org/@11ty/eleventy-cache-assets/-/eleventy-cache-assets-2.3.0.tgz"
+  "version" "2.3.0"
+  dependencies:
+    "debug" "^4.3.1"
+    "flat-cache" "^3.0.4"
+    "node-fetch" "^2.6.1"
+    "p-queue" "^6.6.2"
+    "short-hash" "^1.0.0"
+
 "@11ty/eleventy-fetch@^3.0.0":
   "integrity" "sha512-qJvfb331rYQAmlCS71Ygg0/XHUdB4/qXBOLsG0DJ1m61WL5JNha52OtKVeQq34u2J2Nfzim+X4TIL/+QyesB7Q=="
   "resolved" "https://registry.npmjs.org/@11ty/eleventy-fetch/-/eleventy-fetch-3.0.0.tgz"
@@ -2192,7 +2203,7 @@
   dependencies:
     "ms" "2.0.0"
 
-"debug@^4.1.0", "debug@^4.3.3", "debug@^4.3.4", "debug@~4.3.1", "debug@~4.3.2", "debug@4":
+"debug@^4.1.0", "debug@^4.3.1", "debug@^4.3.3", "debug@^4.3.4", "debug@~4.3.1", "debug@~4.3.2", "debug@4":
   "integrity" "sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ=="
   "resolved" "https://registry.npmjs.org/debug/-/debug-4.3.4.tgz"
   "version" "4.3.4"
@@ -2234,6 +2245,11 @@
   "integrity" "sha512-oIPzksmTg4/MriiaYGO+okXDT7ztn/w3Eptv/+gSIdMdKsJo0u4CfYNFJPy+4SKMuCqGw2wxnA+URMg3t8a/bQ=="
   "resolved" "https://registry.npmjs.org/deep-is/-/deep-is-0.1.4.tgz"
   "version" "0.1.4"
+
+"deepmerge@^4.2.2":
+  "integrity" "sha512-z2wJZXrmeHdvYJp/Ux55wIjqo81G5Bp4c+oELTW+7ar6SogWHajt5a9gO3s3IDaGSAXjDk0vlQKN3rms8ab3og=="
+  "resolved" "https://registry.npmjs.org/deepmerge/-/deepmerge-4.3.0.tgz"
+  "version" "4.3.0"
 
 "define-properties@^1.1.3", "define-properties@^1.1.4":
   "integrity" "sha512-uckOqKcfaVvtBdsVkdPv3XjveQJsNQqmhXgRi8uhvWWuPYZCNlzT8qAyblUgNoXdHdjMTzAqeGjAoli8f+bzPA=="
@@ -2360,6 +2376,14 @@
   "integrity" "sha512-WIGME0Cs7oob3mxsJwHbeWkH0tYkIE/sjkJ8ML2BYmuRcjhRl/q5kVDXG7W9LOOKwzPU5M0LBlXRq9rlSgnNlg=="
   "resolved" "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.199.tgz"
   "version" "1.4.199"
+
+"eleventy-plugin-embed-twitter@^1.3.5":
+  "integrity" "sha512-v0tyBGDuKASOCaZQVt3uT0vaOvLe4P+iTzpRYNbUXVDU6q4hHF1Sf71v8FmkhqMTnr0oJxsq2mVCTpilS8jkZQ=="
+  "resolved" "https://registry.npmjs.org/eleventy-plugin-embed-twitter/-/eleventy-plugin-embed-twitter-1.3.5.tgz"
+  "version" "1.3.5"
+  dependencies:
+    "@11ty/eleventy-cache-assets" "^2.3.0"
+    "deepmerge" "^4.2.2"
 
 "eleventy-plugin-reading-time@^0.0.1":
   "integrity" "sha512-6MRHwrWMYm/u9lJK4/mnyS+6SyQxJSQcTfa1DqQS9fpQRPsZ9mdO9rZ/6DAhZpX2/cXxrbc6qxgcv6Qj90im1g=="
@@ -2929,6 +2953,11 @@
   "version" "1.0.3"
   dependencies:
     "function-bind" "^1.1.1"
+
+"hash-string@^1.0.0":
+  "integrity" "sha512-dtNNyxXobzHavayZwOwRWhBTqS9GX4jDjIMsGc0fDyaN2A+4zMn5Ua9ODDCggN6w3Spma6mAHL3ImmW3BkWDmQ=="
+  "resolved" "https://registry.npmjs.org/hash-string/-/hash-string-1.0.0.tgz"
+  "version" "1.0.0"
 
 "hashish@>=0.0.2 <0.1":
   "integrity" "sha1-bWC8b/r3Ebav1g5CbQd5iAFOZVQ="
@@ -3862,7 +3891,7 @@
   "resolved" "https://registry.npmjs.org/node-addon-api/-/node-addon-api-5.0.0.tgz"
   "version" "5.0.0"
 
-"node-fetch@^2.6.7":
+"node-fetch@^2.6.1", "node-fetch@^2.6.7":
   "integrity" "sha512-ZjMPFEfVx5j+y2yF35Kzx5sF7kDzxuDj6ziH4FFbOp87zKDZNx8yExJIb05OGF4Nlt9IHFIMBkRl41VdvcNdbQ=="
   "resolved" "https://registry.npmjs.org/node-fetch/-/node-fetch-2.6.7.tgz"
   "version" "2.6.7"
@@ -5521,6 +5550,13 @@
   "integrity" "sha512-Vpfqwm4EnqGdlsBFNmHhxhElJYrdfcxPThu+ryKS5J8L/fhAwLazFZtq+S+TWZ9ANj2piSQLGj6NQg+lKPmxrw=="
   "resolved" "https://registry.npmjs.org/shell-quote/-/shell-quote-1.7.3.tgz"
   "version" "1.7.3"
+
+"short-hash@^1.0.0":
+  "integrity" "sha512-qbUCD2Pkl4IXRyVqneEjGnUr0NGDGLzZnBUVGJngIQZf/FrhOL0yJhH+JQzak0t8xMmScIKpoX1SxOsPHdwa4w=="
+  "resolved" "https://registry.npmjs.org/short-hash/-/short-hash-1.0.0.tgz"
+  "version" "1.0.0"
+  dependencies:
+    "hash-string" "^1.0.0"
 
 "side-channel@^1.0.4":
   "integrity" "sha512-q5XPytqFEIKHkGdiMIrY10mvLRvnQh42/+GoBlFW3b2LXLE2xxJpZFdm94we0BaoV3RwJyGqg5wS7epxTv0Zvw=="

@@ -1,0 +1,19 @@
+---
+layout: base
+---
+
+{% set regExpCode = r/<pre class=(.|\n)*?<\/pre>/gm %}
+{% set fixedContent = content | replace(regExpCode, "") | striptags %}
+{% set wordCount = fixedContent | wordcount %}
+
+<div class="container-sm">
+  <h1>{{ title }}</h1>
+  <div class="post__details">
+      <time datetime="{{ page.date | htmlDateString }}">
+        {{ page.date | readableDate }}
+      </time>
+      <span> | </span>
+      <span>{{ wordCount }} words</span>
+    </div>
+  {{ content | safe }}
+</div>

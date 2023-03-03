@@ -8,12 +8,7 @@
 @import 'footer.css';
 @import 'post.css';
 @import 'about.css';
-
-.layout-wrapper {
-  display: grid;
-  grid-template-rows: auto minmax(0, 1fr) auto;
-  min-height: 100%;
-}
+@import 'card.css';
 
 .main {
   display: flex;

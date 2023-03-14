@@ -2,7 +2,7 @@
 title: The Road to 1 Million Words
 description: Practice makes perfect
 permalink: posts/{{ title | slugify }}/index.html
-date: '2023-03-05'
+date: '2023-03-14'
 tags: 
     - projects
     - logistics

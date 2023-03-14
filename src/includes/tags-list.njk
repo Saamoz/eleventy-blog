@@ -1,6 +1,8 @@
 {% for tag in collections.tagList %}
-  {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+  {% if tag != 'vomits' %}
+    {% set tagUrl %}/tags/{{ tag }}/{% endset %}
 
-  <a href="{{ tagUrl | url }}" class="post-tag">#{{ tag }}</a>
+    <a href="{{ tagUrl | url }}" class="post-tag">#{{ tag }}</a>
+  {% endif %} 
 
 {% endfor %}

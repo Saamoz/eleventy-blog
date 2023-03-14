@@ -10,7 +10,12 @@
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
-      "text": "Archive",
+      "text": "1000",
+      "url": "/1000",
+      "external": false
+    },
+    {
+      "text": "All Posts",
       "url": "/blog",
       "external": false
     }

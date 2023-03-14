@@ -90,7 +90,9 @@ However, there is a bright side. I really do think that doing this will make be 
 
 I talk sometimes about how other people inspire me to do things, like Visakanv with this idea. When I am truly inspired, it means more than just thinking _hmm that seems interesting, I should try that_. When I am truly inspired by someone, I am standing in awe at the enormity of their soul, wondering how it is humanly possible to do what they do. In moments like that, I pledge to myself to take a few steps in their direction. It is a powerful and humbling experience to encounter greatness in others; to be warmed by the roaring fire within them in such a way that it brightens your own as well. 
 
-This is a big goal for me. It's intimidating and scary, and I could very well fail. But, that's exactly what it means to be ambitious; it wouldn't be a very good ambition if it didn't have a chance of going poorly. And ~~if~~ when I do succeed, it will be all the more satisfying knowing what it took.
+This is a big goal for me. It's intimidating and scary, and I could very well fail. But, that's exactly what it means to be ambitious; it wouldn't be a very good ambition if it didn't have a chance of going poorly. And ~~if~~ when I do succeed, it will be all the more satisfying knowing what it took. 
+
+Committing like this is also scary because there's no guarantee writing is something I'll still enjoy in 5 or 10 or 20 years from now. However I don't think present me should be beholden to what future me may or may not want. It's better to pledge myself today - to wholeheartedly fling myself in the direction I want without holding back out of fear, whether real or imagined
 
 So, once again, I pledge to write 1000 word vomits of 1000 words each. I hope to be done before I am 35, but I acknowledge and accept the fact that I may fail at that. If you'll notice, there is a new link in the top of the site, that should look like [1000](/1000). That should take you to the new page where I will host all one thousand of these. The placeholder post there will soon be filled out as well. 
 

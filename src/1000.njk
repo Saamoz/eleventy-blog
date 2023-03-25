@@ -17,5 +17,5 @@ permalink: /1000/
   
 </div>
 
-{% set postslist = collections.vomits %}
+{% set postslist = collections.vomits | reverse %}
 {% include "cards-list.njk" %}

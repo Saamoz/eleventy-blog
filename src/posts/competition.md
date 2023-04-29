@@ -61,7 +61,10 @@ Some people at my company have organized an interoffice tournament, with some ot
 
 I like to take things slow, and I took my tournament game as slow as I could. It was almost a meditative experience; I was worried about my attention wandering but actually thinking through every move to the best of my capability was thrilling! I sure wasn't doing that over my lunchtime games. Time passed faster than it ever did before while playing a game, and that's when I felt it. The thrill of competition rising up once again. That's when I knew I wouldn't be able to put this game down anytime soon.
 
-I lost my game of course. I was playing against a much better player than me, and at least I learned a lot. But, after that we, I won my next game at the next meet! It was an amazing feeling to emerge triumphant; I felt powerful.
+I lost my game of course. I was playing against a much better player than me, and despite learning a lot I didn't have much of a chance. But, after that, against all my expectations I somehow managed to win my next game at the next meet! It was an amazing feeling to emerge triumphant; I felt powerful. Even though the tournament was relatively casual, as tournaments go, I decided I wanted more. Maybe this could be my next Starcraft 2.
+
+For me, this was the triggering moment where Chess turned from a pastime into a passion. Suddenly, I was willing to study, read, and practice regularly because I really do believe I have potential. That cycle of growth and 
+
 
 ## :x Inspiration
 

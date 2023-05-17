@@ -35,8 +35,13 @@
   ],
   "footerLinks": [
     {
-      "text": "RSS",
+      "text": "Post RSS",
       "url": "/feed.xml",
+      "external": true
+    },
+    {
+      "text": "Word Vomit RSS",
+      "url": "/feed1000.xml",
       "external": true
     }
   ],

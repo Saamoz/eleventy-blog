@@ -2,7 +2,7 @@
 title: Better Call Saul Review
 description: I don't typically write reviews, but I really enjoyed this show
 permalink: posts/{{ title | slugify }}/index.html
-date: '2023-05-05'
+date: '2023-05-24'
 tags: 
     - musings
 ---

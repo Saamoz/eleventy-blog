@@ -59,7 +59,7 @@ Eventually, after consulting with a manager, the agent decided she could let me 
 
 Anyway the rest of that trip went smoothly if a little chaotically. I had no other issues dealing with any levels of government, and eventually my workplace mailed me the documents I needed for the TN visa. Armed with everything I needed, I headed back to Canada to get the visa for real.
 
-## August 2022 -- Getting the Visa
+## August 2022 -- Getting the Visa Day 1
 
 Like I covered above, getting a TN visa is supposed to be straightforward for Canadians. You show up, ask nicely, maybe share some documents, and then you're home free. The idea is that you can do this whole thing at the airport quick enough that you'll make your flight. The Toronto Pearson Airport does the processing for US entry right there, to make it extra convenient. Unfortunately it didn't go as smoothly as I planned.
 
@@ -73,11 +73,11 @@ Still though, I was in a pleasant mood. I find places like airports to be eminen
 
 Finally, my moment of truth arrived. I was called up by an agent to look at my application package. He asked me a few questions about what the company did and my role in it, but to my horror he denied my application. I learned that many other Canadian trainees, who drove instead of flew, used the exact same application package to make it through in just a few minutes. Here I was after waiting for 3 or 4 hours only to be denied.
 
-I think this illustrates another essential part of any bureaucratic process that just can't be controlled - an element of luck. Somethings things just go your way, and sometimes they don't through no fault of your own. Maybe the agent was having a bad day or maybe there really was a flaw in the application. Either way, I was cast out of the airport and sent to collect my bags. To make things even worse, I had to wait another hour for my two huge boxes to be sent back outside and for someone to come pick me up.
+I think this illustrates another essential part of any bureaucratic process that just can't be controlled - an element of luck. Somethings things just go your way, and sometimes they don't through no fault of your own. Maybe the agent was having a bad day or maybe there really was a flaw in the application. The TN visa is only permitted for a specific list of designated, NAFTA professions and I don't think he understood how my new role related to that list.
 
-The one saving grace in all of this was that my new workplace was extremely sympathetic throughout this entire process. They assured me that I did nothing wrong and arranged to send me new documents overnight so I could try again tomorrow. After doing some frantic research for new flights and planning out my next day, I finally had some well deserved sleep.
+Either way, I was cast out of the airport and sent to collect my bags. To make things even worse, I had to wait another hour for my two huge boxes to be sent back outside and for someone to come pick me up. The one saving grace in all of this was that my new workplace was extremely sympathetic throughout this entire process. They assured me that I did nothing wrong and arranged to send me new documents overnight so I could try again tomorrow. After doing some frantic research for new flights and planning out my next day, I finally had some well deserved sleep.
 
-## August 2022 (still) -- Getting the Visa Part 2
+## August 2022 (still) -- Getting the Visa Day 2
 
 The plan for today was essentially identical to yesterday. I got to the airport early, lugged my two huge boxes around until the oversize luggage area was open to check them in, shambled through US security with practiced ease, and declared that I was applying for a TN visa. And then, the waiting began.
 
@@ -85,10 +85,46 @@ I was started to get a little bit low on reading material, having exhausted most
 
 Amusingly, some of the agents started to recognize me. One of them who seemed a little bit younger than the others and a little bit friendlier than the others was my favorite. I gave him a nod as I walked in; I thought it was funny to be seeing him again for the second day in a row. He even called me up after I arrived, I think mostly out of curiosity, and I explained the situation to him.
 
-So, the hours passed. I got lots of reading done and some more fun stories, like the lady who had a breakfast orange in her purse and so had to miss her flight. Or the family going to Disney World for the first time. Once again the time of my flight quickly passed, but I remained unfazed. I couldn't wait to see how the actual visa application would go. And finally, I was called up.
+So, the hours passed. I got lots of reading done and overheard some more fun stories, like the lady who had a breakfast orange in her purse and so had to miss her flight. Or the family going to Disney World for the first time. Once again the time of my flight quickly passed, but I remained unfazed. I couldn't wait to see how the actual visa application would go. And finally, I was called up.
 
 To my relief, the agent was the friendlier one this time. I told him the same things that I said yesterday, and he sent me back to my seat while he considered. As I said before, I rarely get nervous even in the most stressful situation; this however, had me shaking. In retrospect I think I was being a little bit dramatic, but after waiting for over 10 hours in total I was very invested in the outcome.
 
 As I said, I think luck is a huge factor in stuff like this, and is why I got denied the day before. The documents I had today were, frankly speaking, 99% similar to what I then. I didn't say anything new either to explain my role. The entire difference, in my mind, comes from the fact that I got the young friendly border agent this time, as opposed to my previous stricter one. Even luckier, the one from yesterday wasn't in today.
 
-The new agent asked a few questions to figure out why he denied me. I think that my application looked good overall (since, of course, everybody else got the TN visa just fine) but also didn't want to completely undermine the other agent's decision.
+The new agent asked a few questions to figure out why the last guy denied me. It seemed like he liked my application overall (since, of course, everybody else got the TN visa just fine) but also didn't want to completely undermine the other agent's decision. Waiting there in the seat, ears perked to hear any scrap of what they're saying, hoping that I wouldn't have to repeat this again tomorrow; it was a rough few minutes. Eventually I heard the agent mutter the fateful words: "_sigh_, I'm just gonna give it to him".
+
+My guess is he was trying to identify whatever flaws the agent from yesterday found, but eventually gave up on that and decided to just go with his gut. Whatever the reason was, I felt vindicated in my optimism and despite all that I went through I mostly returned to believing that everything will probably turn out fine in the end.
+
+Now, I had one last hurdle. Since I missed my flight again I had to book another one for tomorrow so I could fly to the US with my shiny new TN visa. My boxes and I went back home and I once again quickly fell asleep, knowing tomorrow would be the day I finally reached Chicago.
+
+## Some Fun Info about the TN
+
+Now might be a good time to discuss how the TN visa actually works, as it's central to this story. I've actually been incorrect this whole time every time I mentioned the TN visa; such a visa does exist but it's not what I was getting.
+
+You see, immigration can be a strange and confusing process. The USA and Canada have a treaty to allow for visa-free travel between the two countries. That means that for the most part, Canadians entering the country don't require permission to enter. No visa means you can just drive up to the border and drive through.
+
+However, the USA can't just let us Canucks run around willy nilly south of the border. Even if entry is widely permitted, they still have rules regarding things like employment and length of stay. Even if the US lets Canadians enter the country largely hassle free, we're very different from US citizens.
+
+To solve this, the USA keep track of the class of admission when a Canadian crosses the border. Whenever I wrote TN Visa, I more accurately should have said TN classification, or TN status. This is determined at the time of entry by the individual agent, and is meant to be quicker and easier than a full visa. 
+
+If you've ever tried to get a US Visa, you'll know that it's a whole thing. You need to mail in your passport, visit a consulate, get fingerprinted. It goes through a whole department in the US government that needs to approve you. The actual visa even takes up a full page in the passport with color and everything - it's a whole deal. 
+
+TN status on the other hand is a whole lot simpler. You show up at the border, present a few documents, and the idea is the agent lets you on your way within maybe half an hour (although the company can apply on your behalf if they'd like). As you saw from my two days in the airport it's not always this straightforward, but the idea is there. Most other Canadians I knew had much nicer experiences crossing at land borders rather than relying on the overloaded Toronto Pearson Airport. 
+
+Also, unlike most other work visas, you don't require sponsorship. The company typically writes a letter requesting entry, but if you have an offer and the right documents, you could get the visa entirely by yourself without involving your employers at all. There's certainly a lot less restrictions in the process compared to the onerous process involved with an H1-B, for example (which if you're interested in learning more about, you really should read [the article I mentioned above](https://software.rajivprab.com/2022/05/10/18-years-a-transient)).
+
+There are a few quirks and downsides though. Firstly, whether or not you get the TN classification is up to the discretion of the individial agent at the border crossing, which means that a few unlucky souls may have an experience like mine or even be permanently rejected. 
+
+A more important aspect however, is that the TN is a nonimmigrant classification. You're meant to use it to work in the US, not to move your entire life here and become a US citizen. Unlike other visas, there's no path to permanent residency or a green card, even if it can be theoretically renewed indefinitely. Every three years at renewal, the agent might deny you if they feel you have intentions to immigrate and settle down here.
+
+Plus, remember that this is a temporary classification and not a visa. Every time you leave and reenter the US, like on vacation, technically an agent has to manually record your TN status which they can sometimes forget or choose not to give you. Every time I've entered and explained I previously had TN they've just given me one with the same expiration date without questions, but technically they could interview or deny me right there. It's advised to keep all your TN documents with you when reentering, which I never do of course because, just in case you have issues.
+
+As you can see there are a lot of rules and details involving this visa, but it's still better than the H1-B which involved signing up for a literal lottery. And all of this information will be more relevant later on in the story.
+
+## August 2022 -- Getting the Visa Day 3
+
+I showed up to the airport for the third day in a row bright eyed and bushy tailed, ready to move to my new home. Unfortunately, the airline was not very willing to rebook my flight and the check in counter couldn't do anything. I stayed on the phone with the airline for almost an hour before I got too nervous and purchased a new ticket (for the flight I was meant to be rebooked on) myself.
+
+Funnily enough, after getting through security, they did eventually rebook me so I ended up with two tickets for the same flight. I think the staff at the gate were kind of amused by this.
+
+First though, I had to 

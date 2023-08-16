@@ -169,19 +169,21 @@ I did get a vital piece of information though. I'd called social security enough
 
 She informed me that it turns out there was someone with the exact same name as date of birth as me which was confusing the system. I'd love to meet this person, but at the moment it seems like a quirk of fate had led to this causing a whole bunch of problems. Unfortunately we still didn't know how to fix this since the problem was with the USCIS system who I couldn't get in touch with. 
 
-Recall that Canadians don't need a visa to enter the USA. That means I can't identify myself with a visa number (which I would have if I ever got a real visa) or an A number (which I would have if I applied for a green card). All I had was my passport number and I-94 (which changes every entry). I suspect the USCIS systems aren't very smooth in these situations, since they normally deal with immigrants who have visas. Regardless though, I wasn't too concerned. I was thanksfully getting paid and who needs a credit card anyway.
+Recall that Canadians don't need a visa to enter the USA. That means I can't identify myself with a visa number (which I would have if I ever got a real visa) or an A number (which I would have if I applied for a green card). All I had was my passport number and I-94 (which changes every entry). I suspect the USCIS systems aren't very smooth in these situations, since they normally deal with immigrants who have visas. 
 
-Also, around this time I finally was able to update my Nexus card to use my TN visa. Now I could breeze through immigration and reliably get my TN visa without involving a human in the process. It makes it much easier to travel since it's less likely they'll ask random questions about the job or my position.
+Regardless though, I want to stress that I reallywasn't too concerned. Everything I wasn't able to get, like a credit card or driver's license, I had Canadian versions of. Due to the friendly relations between Canada and the US everything worked here like it did before, and so my quality of life was hardly impacted by all this delay. In fact, I think I sometimes got more amusement from telling my friends about the problem than I was actually inconvenienced by all this.
+
+Plus, around this time I finally was able to update my Nexus card to use my TN visa. Now I could breeze through immigration and reliably get TN status on arrival without involving a human in the process. It made it much easier to travel and resolved one of the last big annoying issues I had.
 
 ## April 2023
 
 I'd been going back and forth with social security for weeks, without much progress. My contact suggested I try to meet with USCIS directly, or even try to ask the DHS guys next time I enter the country. We theorized about what the cause could be and potential database mismatches, but nothing too fruitful.
 
-Around this time, my relentless calling of the DHS led me to some insights. It turns out there is a secret codeword you can say on the phone to USCIS, which will then connect you to a human. Don't spread it around to much, but the secret word is _infopass_.
+Around this time, my relentless calling of the DHS led me to some insights. It turns out there is a secret codeword you can say on the phone to USCIS, which will then connect you to a human. You didn't hear it from me, but the secret word is _infopass_.
 
 Using this information I was able to book a real appointment with real humans from USCIS and ask them about my problem. At the appointment it was kind of funny; they were very sympathetic but they couldn't directly go into the database and fix anything. All they could do was suggest formatting my name in a slightly different way so that it didn't conflict.
 
-It wasn't the most watertight idea but I was pretty optimistic. This stage felt like reaching the final level in a video game - surely it had to work now. I informed my friend at social security with my findings and we submitted an application again, for what would hopefully be the last time.
+It wasn't the most watertight idea but I was pretty optimistic. This stage felt like reaching the final level in a video game, down to having to get past each individual miniboss (the phone agents) to get to the final battle at the end. It would be such a perfect climax to the story, surely it had to work! I informed my friend at social security about my findings and we submitted an application again, for what would hopefully be the last time.
 
 ## June 2023
 

@@ -171,7 +171,7 @@ She informed me that it turns out there was someone with the exact same name as 
 
 Recall that Canadians don't need a visa to enter the USA. That means I can't identify myself with a visa number (which I would have if I ever got a real visa) or an A number (which I would have if I applied for a green card). All I had was my passport number and I-94 (which changes every entry). I suspect the USCIS systems aren't very smooth in these situations, since they normally deal with immigrants who have visas. 
 
-Regardless though, I want to stress that I reallywasn't too concerned. Everything I wasn't able to get, like a credit card or driver's license, I had Canadian versions of. Due to the friendly relations between Canada and the US everything worked here like it did before, and so my quality of life was hardly impacted by all this delay. In fact, I think I sometimes got more amusement from telling my friends about the problem than I was actually inconvenienced by all this.
+Regardless though, I want to stress that I really wasn't too concerned. Everything I wasn't able to get, like a credit card or driver's license, I had Canadian versions of. Due to the friendly relations between Canada and the US everything worked here like it did before, and so my quality of life was hardly impacted by all this delay. In fact, I think I sometimes got more amusement from telling my friends about the problem than I was actually inconvenienced by all this.
 
 Plus, around this time I finally was able to update my Nexus card to use my TN visa. Now I could breeze through immigration and reliably get TN status on arrival without involving a human in the process. It made it much easier to travel and resolved one of the last big annoying issues I had.
 

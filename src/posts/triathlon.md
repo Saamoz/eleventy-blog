@@ -17,7 +17,7 @@ My reasoning was that I'd be fine with the biking portion, and running can't be 
 
 I find it quite interesting that each individual leg of the race is its own entire full sport. People spend their whole lives to become better runners or better cyclists. Me? I see myself as more of a master of none. I'd honestly rather be able to do three different things medocre than do one of them really well. I just find it more interesting. Honestly speaking, I probably wouldn't have ever signed up for just a swim or a run. The novelty of doing all three, and plus being able to call myself a triathlete afterwards, is what gets me.
 
-![picture](https://imgur.com/YEaxb1Q)
+![picture](https://i.imgur.com/YEaxb1Q.png)
 
 ## Biking
 

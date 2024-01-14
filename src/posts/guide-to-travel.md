@@ -2,7 +2,7 @@
 title: Saad's Guide to Adventure
 description: "How I adventure, and how you can learn to too"
 permalink: posts/{{ title | slugify }}/index.html
-date: '2023-12-24'
+date: '2024-01-14'
 tags: 
     - adventures
     - musings

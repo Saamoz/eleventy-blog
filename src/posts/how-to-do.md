@@ -2,7 +2,7 @@
 title: Paramotor and Agency
 description: How I learned to fly, and how you could too
 permalink: posts/{{ title | slugify }}/index.html
-date: '20250-02-18'
+date: '2025-02-18'
 tags: 
     - musings
     - adventures
